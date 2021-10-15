@@ -1,6 +1,6 @@
 {
   "name": "@aiswarya_r/sum_numbers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "To find the sum of n numbers",
   "main": "index.js",
   "scripts": {
