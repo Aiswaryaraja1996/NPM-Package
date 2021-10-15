@@ -1,0 +1,19 @@
+{
+  "name": "@aiswarya_r/sum_numbers",
+  "version": "0.0.1",
+  "description": "To find the sum of n numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiswaryaraja1996/npm_package.git"
+  },
+  "author": "ammu.rajaponnan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aiswaryaraja1996/npm_package/issues"
+  },
+  "homepage": "https://github.com/Aiswaryaraja1996/npm_package#readme"
+}
